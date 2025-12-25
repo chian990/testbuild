@@ -182,7 +182,7 @@ function App() {
           </p>
 
           <div className="w-full max-w-7xl">
-            <ArtCarousel items={[1, 2, 3, 4]} />
+            <ArtCarousel items={[1, 2, 3, 4, 5]} />
           </div>
         </section>
 
